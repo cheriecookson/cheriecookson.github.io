@@ -10,4 +10,4 @@ Refractured a starter code to meet acceptance criteria.  Made adjustments so tha
 
 ## Link
 
-[Challenge No. 1](/cheriecookson.github.io/Develop/index.html)
+[Challenge No. 1](https://cheriecookson.github.io/cheriecookson.github.io/Develop/index.html)
